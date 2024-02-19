@@ -2,7 +2,7 @@
 #define SX128XLT_h
 
 #include "Arduino.h"
-#include <SX128XLT_DefinitionsP.h>
+#include <SX128XLT_DefinitionsPico.h>
 
 
 //check if (size > 251 ) for receive reliable
