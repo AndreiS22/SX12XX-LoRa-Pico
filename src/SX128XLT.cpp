@@ -9,7 +9,7 @@
   See LICENSE.TXT file included in the library
 */
 
-#include <SX128XLT.h>
+#include <SX128XLTPico.h>
 #include <SPI.h>
 
 #define LTUNUSED(v) (void) (v)       //add LTUNUSED(variable); to avoid compiler warnings 
